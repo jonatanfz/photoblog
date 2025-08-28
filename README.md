@@ -30,8 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - @keyframes
 - **Google Fonts** → Tipografia personalizada:'Mulish' → tipografia consistente e agradável.
 
-- [Visite o projeto online](https://jonatanfz.github.io/photoblog)
-
 ---
 
 ## 🖼️ Funcionalidades
