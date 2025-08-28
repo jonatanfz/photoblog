@@ -54,7 +54,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📇 Créditos
 
-Este projeto foi desenvolvido por Jonatan Fiuza como parte do programa Rocketseat Explorer.
+- Este projeto foi desenvolvido por Jonatan Fiuza como parte do programa Rocketseat Explorer.
+
 ---
 [Acesse o Foto Blog](https://jonatanfz.github.io/photoblog/)
 
